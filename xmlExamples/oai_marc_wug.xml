@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='http://emedien.arbeiterkammer.at/viewer/oai2.xsl'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2015-12-16T15:27:24Z</responseDate>
+  <request verb="ListRecords">http://emedien.arbeiterkammer.at/viewer/oai/</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-95483</identifier>
+        <datestamp>2015-12-14T14:48:33Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2013</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2013_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2013</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2013 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2013001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-98612</identifier>
+        <datestamp>2015-12-14T14:48:53Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2014</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2014_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2014</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2014 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2014002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-104244</identifier>
+        <datestamp>2015-12-14T14:21:47Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2014</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2014_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2014</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2014 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2014001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-106184</identifier>
+        <datestamp>2015-12-14T14:48:47Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2013</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2013_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2013</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2013 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2013004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-107959</identifier>
+        <datestamp>2015-12-14T14:48:42Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2013</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2013_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2013</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2013 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2013003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-109881</identifier>
+        <datestamp>2015-12-14T14:48:38Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2013</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2013_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2013</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2013 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2013002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-111830</identifier>
+        <datestamp>2015-12-14T14:48:27Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2012</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2012_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2012</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2012 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2012004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-113615</identifier>
+        <datestamp>2015-12-14T14:48:22Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2012</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2012_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2012</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2012 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2012003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-115312</identifier>
+        <datestamp>2015-12-14T14:48:14Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2012</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2012_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2012</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2012 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2012002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-118532</identifier>
+        <datestamp>2015-12-14T14:48:08Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2012</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2012_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2012</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2012 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2012001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-120465</identifier>
+        <datestamp>2015-12-14T14:48:03Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2011</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2011_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2011</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2011 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2011004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-122124</identifier>
+        <datestamp>2015-12-14T14:47:58Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2011</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2011_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2011</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2011 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2011003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-123423</identifier>
+        <datestamp>2015-12-14T14:47:53Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2011</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2011_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2011</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2011 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2011002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-125249</identifier>
+        <datestamp>2015-12-14T14:47:48Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2011</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2011_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2011</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2011 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2011001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-127147</identifier>
+        <datestamp>2015-12-14T14:47:43Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2010</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2010_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2010 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2010004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-128966</identifier>
+        <datestamp>2015-12-14T14:47:39Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2010</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2010_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2010 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2010003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-130461</identifier>
+        <datestamp>2015-12-14T14:47:35Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2010</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2010_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2010 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2010002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-132002</identifier>
+        <datestamp>2015-12-14T14:47:30Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2010</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2010_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2010</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2010 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2010001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-133413</identifier>
+        <datestamp>2015-12-14T14:47:25Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2009</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2009_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2009 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2009004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-134797</identifier>
+        <datestamp>2015-12-14T14:47:21Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2009</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2009_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2009 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2009003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-136564</identifier>
+        <datestamp>2015-12-14T14:47:15Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2009</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2009_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2009 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2009002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-138428</identifier>
+        <datestamp>2015-12-14T14:47:10Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2009</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2009_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2009</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2009 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2009001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-139767</identifier>
+        <datestamp>2015-12-14T14:47:05Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2008</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2008_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2008 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2008004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-141548</identifier>
+        <datestamp>2015-12-14T14:47:01Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2008</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2008_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2008 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2008003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-143007</identifier>
+        <datestamp>2015-12-14T14:46:56Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2008</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2008_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2008 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2008002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-144544</identifier>
+        <datestamp>2015-12-14T14:46:51Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2008</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2008_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2008</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2008 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2008001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-146006</identifier>
+        <datestamp>2015-12-14T14:46:47Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2007</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2007_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2007 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2007004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-147428</identifier>
+        <datestamp>2015-12-14T14:46:42Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2007</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2007_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2007 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2007003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-149164</identifier>
+        <datestamp>2015-12-14T14:46:29Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2007</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2007_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2007 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2007002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-150788</identifier>
+        <datestamp>2015-12-14T14:46:15Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2007</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2007_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2007</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2007 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2007001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-160731</identifier>
+        <datestamp>2015-12-14T14:46:02Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2006</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2006_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2006</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2006 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2006004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-159113</identifier>
+        <datestamp>2015-12-14T14:45:50Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2006</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2006_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2006</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2006 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2006003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-162439</identifier>
+        <datestamp>2015-12-14T14:45:43Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2006</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2006_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2006</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2006 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2006002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-163774</identifier>
+        <datestamp>2015-12-14T14:45:37Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2006</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2006_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2006</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2006 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2006001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-154408</identifier>
+        <datestamp>2015-12-14T14:45:32Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2005</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2005_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2005 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2005004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-166735</identifier>
+        <datestamp>2015-12-14T14:45:26Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2005</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2005_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2005 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2005003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-155943</identifier>
+        <datestamp>2015-12-14T14:45:22Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2005</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2005_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2005 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2005002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-157498</identifier>
+        <datestamp>2015-12-14T14:45:16Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2005</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2005_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2005</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2005 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2005001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-171494</identifier>
+        <datestamp>2015-12-14T14:45:10Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2004</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2004_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2004 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2004004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-176995</identifier>
+        <datestamp>2015-12-14T14:45:05Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2004</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2004_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2004 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2004003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-178586</identifier>
+        <datestamp>2015-12-14T14:45:00Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2004</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2004_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2004 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2004002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-180088</identifier>
+        <datestamp>2015-12-14T14:44:53Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2004</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2004_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2004 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2004001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-181879</identifier>
+        <datestamp>2015-12-14T14:44:49Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2003</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2003_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2003 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2003004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-183171</identifier>
+        <datestamp>2015-12-14T14:44:42Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2003</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2003_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2003 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2003003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-184725</identifier>
+        <datestamp>2015-12-14T14:44:35Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2003</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2003_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2003 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2003002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-186661</identifier>
+        <datestamp>2015-12-14T14:44:30Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2003</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2003_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2003 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2003001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-193825</identifier>
+        <datestamp>2015-12-14T14:44:24Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2002</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2002_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2002 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2002004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-195447</identifier>
+        <datestamp>2015-12-14T14:44:17Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2002</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2002_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2002 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2002003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-197305</identifier>
+        <datestamp>2015-12-14T14:44:11Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2002</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2002_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2002 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2002002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-198849</identifier>
+        <datestamp>2015-12-14T14:44:06Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2002</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2002_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2002 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2002001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-200303</identifier>
+        <datestamp>2015-12-14T14:44:01Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2001</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2001_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2001 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2001004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">2001</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-201828</identifier>
+        <datestamp>2015-12-14T14:43:56Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2001</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2001_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2001 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2001003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-203523</identifier>
+        <datestamp>2015-12-14T14:43:50Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2001</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2001_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2001 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2001002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-204901</identifier>
+        <datestamp>2015-12-14T14:43:45Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2001</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2001_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2001 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2001001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-165192</identifier>
+        <datestamp>2015-12-14T14:43:40Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2000</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2000_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2000</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2000 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2000004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-206531</identifier>
+        <datestamp>2015-12-14T14:43:35Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2000</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2000_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2000</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2000 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2000003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-211877</identifier>
+        <datestamp>2015-12-14T14:43:30Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2000</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2000_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2000</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2000 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2000002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-340447</identifier>
+        <datestamp>2015-12-14T14:43:25Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2000</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2000_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">2000</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2000 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2000001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-342472</identifier>
+        <datestamp>2015-12-14T14:43:20Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1999</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1999_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1999</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1999 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1999004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-344254</identifier>
+        <datestamp>2015-12-14T14:43:16Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1999</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1999_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1999</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1999 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1999003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-345553</identifier>
+        <datestamp>2015-12-14T14:43:11Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1999</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1999_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1999</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1999 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1999002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-346852</identifier>
+        <datestamp>2015-12-14T14:43:05Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1999</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1999_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1999</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1999 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1999001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-348231</identifier>
+        <datestamp>2015-12-14T14:42:58Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1998</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1998_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1998</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1998 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1998004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-350057</identifier>
+        <datestamp>2015-12-14T14:42:53Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1998</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1998_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1998</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1998 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1998003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-351472</identifier>
+        <datestamp>2015-12-14T14:42:48Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1998</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1998_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1998</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1998 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1998002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-352753</identifier>
+        <datestamp>2015-12-14T14:42:42Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1998</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1998_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1998</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1998 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1998001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-354553</identifier>
+        <datestamp>2015-12-14T14:42:36Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1997</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1997_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1997</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1997 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1997004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-356216</identifier>
+        <datestamp>2015-12-14T14:42:31Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1997</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1997_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1997</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1997 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1997003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-357675</identifier>
+        <datestamp>2015-12-14T14:42:25Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1997</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1997_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1997</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1997 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1997002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-359130</identifier>
+        <datestamp>2015-12-14T14:42:20Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1997</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1997_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1997</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1997 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1997001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>urn:nbn:at:at-akw:g-368364</identifier>
+        <datestamp>2015-12-14T14:48:58Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.2014</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_2014_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">2014</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 2014 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 2014003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1987_001</identifier>
+        <datestamp>2015-12-14T14:39:05Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1987</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1987_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1987</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1987 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1987001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1987_002</identifier>
+        <datestamp>2015-12-14T14:39:10Z</datestamp>
+        <setSpec>wirtschaft</setSpec>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1987</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1987_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           ||||||||||||||||||||||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">LexisNexis</marc:subfield>
+            <marc:subfield code="c">1987</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1987 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1987002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1987_003</identifier>
+        <datestamp>2015-12-14T14:39:14Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1987</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1987_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1987</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1987 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1987003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1988_001</identifier>
+        <datestamp>2015-12-14T14:39:22Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1988</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1988_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1988</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1988 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1988001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1988_002</identifier>
+        <datestamp>2015-12-14T14:39:27Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1988</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1988_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1988</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1988 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1988002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1988_003</identifier>
+        <datestamp>2015-12-14T14:39:32Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1988</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1988_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1988</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1988 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1988003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1988_004</identifier>
+        <datestamp>2015-12-14T14:39:36Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1988</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1988_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1988</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1988 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1988004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1989_001</identifier>
+        <datestamp>2015-12-14T14:39:40Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1989</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1989_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1989</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1989 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1989001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1989_002</identifier>
+        <datestamp>2015-12-14T14:39:45Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1989</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1989_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1989</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1989 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1989002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1989_003</identifier>
+        <datestamp>2015-12-14T14:39:50Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1989</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1989_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1989</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1989 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1989003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1989_004</identifier>
+        <datestamp>2015-12-14T14:39:54Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1989</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1989_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1989</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1989 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1989004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1990_001</identifier>
+        <datestamp>2015-12-14T14:39:58Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1990</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1990_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1990</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1990 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1990001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1990_002</identifier>
+        <datestamp>2015-12-14T14:40:03Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1990</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1990_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1990</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1990 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1990002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1990_003</identifier>
+        <datestamp>2015-12-14T14:40:08Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1990</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1990_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1990</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1990 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1990003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1990_004</identifier>
+        <datestamp>2015-12-14T14:40:13Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1990</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1990_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1990</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1990 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1990004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1991_001</identifier>
+        <datestamp>2015-12-14T14:40:17Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1991</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1991_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1991</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1991 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1991001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1991_002</identifier>
+        <datestamp>2015-12-14T14:40:22Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1991</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1991_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1991</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1991 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1991002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1991_003</identifier>
+        <datestamp>2015-12-14T14:40:27Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1991</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1991_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1991</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1991 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1991003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1991_004</identifier>
+        <datestamp>2015-12-14T14:40:32Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1991</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1991_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1991</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1991 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1991004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1992_001</identifier>
+        <datestamp>2015-12-14T14:40:37Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1992</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1992_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1992</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1992 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1992001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1992_002</identifier>
+        <datestamp>2015-12-14T14:40:41Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1992</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1992_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1992</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1992 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1992002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1992_003</identifier>
+        <datestamp>2015-12-14T14:40:46Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1992</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1992_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1992</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1992 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1992003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1992_004</identifier>
+        <datestamp>2015-12-14T14:40:50Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1992</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1992_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1992</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1992 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1992004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1993_001</identifier>
+        <datestamp>2015-12-14T14:40:55Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1993</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1993_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1993</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1993 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1993001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1993_002</identifier>
+        <datestamp>2015-12-14T14:40:59Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1993</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1993_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1993</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1993 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1993002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1993_003</identifier>
+        <datestamp>2015-12-14T14:41:05Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1993</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1993_003</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1993</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1993 Heft 3</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1993003</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1993_004</identifier>
+        <datestamp>2015-12-14T14:41:11Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1993</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1993_004</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1993</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1993 Heft 4</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1993004</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1994_001</identifier>
+        <datestamp>2015-12-14T14:41:16Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1994</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1994_001</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1994</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1994 Heft 1</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1994001</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>AC00564651_1994_002</identifier>
+        <datestamp>2015-12-14T14:41:21Z</datestamp>
+        <setSpec>zeitschriften.wirtschaftgesellschaft.1994</setSpec>
+      </header>
+      <metadata>
+        <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+          <marc:leader>12345nm  22     uu 4500</marc:leader>
+          <marc:controlfield tag="001">AC00564651_1994_002</marc:controlfield>
+          <marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+          <marc:controlfield tag="001">akwien</marc:controlfield>
+          <marc:controlfield tag="003">ak_identifier</marc:controlfield>
+          <marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="b">Orac</marc:subfield>
+            <marc:subfield code="c">1994</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft - 1994 Heft 2</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="130" ind1="0" ind2=" ">
+            <marc:subfield code="a">Wirtschaft und Gesellschaft 1994002</marc:subfield>
+          </marc:datafield>
+          <marc:datafield tag="773" ind1="0" ind2=" " />
+          <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Wien</marc:subfield>
+            <marc:subfield code="b">AK Wien</marc:subfield>
+          </marc:datafield>
+        </marc:record>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2015-12-19T15:27:24Z" completeListSize="162" cursor="100">oai_1450279644395</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
