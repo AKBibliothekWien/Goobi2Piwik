@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2017-01-05T06:58:59Z</responseDate>
+	<request verb="ListRecords">https://emedien.arbeiterkammer.at/viewer/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443253</identifier>
+				<datestamp>2016-12-16T11:08:16Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Inflation 2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation 2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443415</identifier>
+				<datestamp>2016-12-16T11:08:13Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Kinderbetreuung und Elementarbildung: Die Entwicklung in den letzten 10 Jahren</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Kinderbetreuung und Elementarbildung: Die Entwicklung in den letzten 10 Jahren</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443472</identifier>
+				<datestamp>2016-12-16T11:08:18Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">MigrantInnen in Wien - Einkommen, Bildung, Wohnen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">MigrantInnen in Wien - Einkommen, Bildung, Wohnen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443351</identifier>
+				<datestamp>2016-12-16T11:08:20Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Arbeitsmarkt und gesundheitliche Beeinträchtigungen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitsmarkt und gesundheitliche Beeinträchtigungen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443302</identifier>
+				<datestamp>2016-12-16T11:08:23Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Anstieg der Erwerbstätigkeit trotz stagnierendem Arbeitsvolumen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Anstieg der Erwerbstätigkeit trotz stagnierendem Arbeitsvolumen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443531</identifier>
+				<datestamp>2016-12-16T11:07:45Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Atypische Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Atypische Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443582</identifier>
+				<datestamp>2016-12-16T11:07:42Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_10</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Lohnsteuer im Steigflug</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Lohnsteuer im Steigflug</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443733</identifier>
+				<datestamp>2016-12-16T11:07:52Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Armut trotz Arbeit - Working Poor in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Armut trotz Arbeit - Working Poor in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443591</identifier>
+				<datestamp>2016-12-16T11:08:02Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_8</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Arbeitsmarkt und Alter</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitsmarkt und Alter</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443619</identifier>
+				<datestamp>2016-12-16T11:08:04Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_9</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Vermögenskonzentration in Europa</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Vermögenskonzentration in Europa</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443782</identifier>
+				<datestamp>2016-12-16T11:07:47Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Inflation 2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation 2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443834</identifier>
+				<datestamp>2016-12-16T11:07:49Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Bildung und Berufschancen von Frauen in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Bildung und Berufschancen von Frauen in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443886</identifier>
+				<datestamp>2016-12-16T11:07:54Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Steuerstruktur in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Steuerstruktur in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-443942</identifier>
+				<datestamp>2016-12-16T11:07:57Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Mobilität und Verteilungsgerechtigkeit</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Mobilität und Verteilungsgerechtigkeit</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444019</identifier>
+				<datestamp>2016-12-16T11:07:59Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2014</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2014_7</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Betriebliche Rahmenbedingungen als Faktor bei der Vereinbarkeit von Beruf und Familie</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Betriebliche Rahmenbedingungen als Faktor bei der Vereinbarkeit von Beruf und Familie</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2014</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444064</identifier>
+				<datestamp>2016-12-16T11:07:23Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_11</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Einkommen aus Arbeit und Vermögen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Einkommen aus Arbeit und Vermögen</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444138</identifier>
+				<datestamp>2016-12-16T11:07:21Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_10</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Ausbildung und Arbeitsmarkt</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Ausbildung und Arbeitsmarkt</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444201</identifier>
+				<datestamp>2016-12-16T11:07:39Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_7</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Wohnen in Wien</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Wohnen in Wien</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444277</identifier>
+				<datestamp>2016-12-16T11:07:37Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Ergebnisse des AK Wiedereinstiegsmonitorings</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Ergebnisse des AK Wiedereinstiegsmonitorings</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444341</identifier>
+				<datestamp>2016-12-16T11:07:35Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Steueroasen - im Steuersumpf</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Steueroasen - im Steuersumpf</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444396</identifier>
+				<datestamp>2016-12-16T11:07:32Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Armut in Österreich - die neuesten Wert aus EU-SILC</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Armut in Österreich - die neuesten Wert aus EU-SILC</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444469</identifier>
+				<datestamp>2016-12-16T11:07:30Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Lehrlinge in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Lehrlinge in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444521</identifier>
+				<datestamp>2016-12-16T11:07:28Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Inflation 2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation 2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444587</identifier>
+				<datestamp>2016-12-16T11:07:25Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2013</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2013_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Geschlechtsspezifische Verteilung von Einkommen und Entscheidungsmacht innerhalb des Haushalts</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Geschlechtsspezifische Verteilung von Einkommen und Entscheidungsmacht innerhalb des Haushalts</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2013</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444650</identifier>
+				<datestamp>2016-12-16T11:06:57Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_12</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Steuerliche Familienförderung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Steuerliche Familienförderung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444713</identifier>
+				<datestamp>2016-12-16T11:06:55Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_11</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="b">Die neuesten Werte für 2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="246" ind1="3" ind2=" ">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444774</identifier>
+				<datestamp>2016-12-16T11:07:18Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_9</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Equal Pay Day: Länger arbeiten - weniger verdienen?</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Equal Pay Day: Länger arbeiten - weniger verdienen?</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444845</identifier>
+				<datestamp>2016-12-16T11:07:16Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_8</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Schule und Bildung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Schule und Bildung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444901</identifier>
+				<datestamp>2016-12-16T11:07:14Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_7</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Fakten zur Verteilungssituation in der Landwirtschaft</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Fakten zur Verteilungssituation in der Landwirtschaft</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-444979</identifier>
+				<datestamp>2016-12-16T11:07:11Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Beschäftigungssituation von Wiener ArbeitnehmerInnen mit Migrationshintergrund</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Beschäftigungssituation von Wiener ArbeitnehmerInnen mit Migrationshintergrund</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445043</identifier>
+				<datestamp>2016-12-16T11:07:09Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Einkommen der ArbeitnehmerInnen - die Lohnsteuerstatistik</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Einkommen der ArbeitnehmerInnen - die Lohnsteuerstatistik</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445100</identifier>
+				<datestamp>2016-12-16T11:07:06Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Geringfügige Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Geringfügige Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445176</identifier>
+				<datestamp>2016-12-16T11:07:04Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Inflation 2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation 2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445221</identifier>
+				<datestamp>2016-12-16T11:07:02Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Beschäftigung und Arbeitslosigkeit von Frauen in der Krise</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Beschäftigung und Arbeitslosigkeit von Frauen in der Krise</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445295</identifier>
+				<datestamp>2016-12-16T11:06:59Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2012</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2012_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Armut trotz Arbeit - Working Poor in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Armut trotz Arbeit - Working Poor in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2012</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445355</identifier>
+				<datestamp>2016-12-16T11:06:52Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Teilzeitbeschäftigung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Teilzeitbeschäftigung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445402</identifier>
+				<datestamp>2016-12-16T11:06:50Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Ausgaben der privaten Haushalte</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Ausgaben der privaten Haushalte</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445473</identifier>
+				<datestamp>2016-12-16T11:06:47Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Vermögensverteilung und -besteuerung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Vermögensverteilung und -besteuerung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445547</identifier>
+				<datestamp>2016-12-16T11:06:45Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Beschäftigung &amp; Arbeitslosigkeit in Wien</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Beschäftigung &amp; Arbeitslosigkeit in Wien</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445612</identifier>
+				<datestamp>2016-12-16T11:06:42Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Inflation und Warenkorb</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation und Warenkorb</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-445686</identifier>
+				<datestamp>2016-12-16T11:06:40Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2011</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2011_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2011</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-489638</identifier>
+				<datestamp>2016-12-16T11:08:25Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Aktuelle Daten zur geringfügigen Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Aktuelle Daten zur geringfügigen Beschäftigung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-515931</identifier>
+				<datestamp>2016-12-16T11:08:27Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_7</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Der Steuertarif - das Herzstück der Steuerreform</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Steuertarif - das Herzstück der Steuerreform</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-604075</identifier>
+				<datestamp>2016-12-16T11:08:30Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_9</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Eltern(teil)zeit: Wie geht's den Eltern damit?</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Eltern(teil)zeit: Wie geht's den Eltern damit?</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-678821</identifier>
+				<datestamp>2016-12-16T11:08:06Z</datestamp>
+				<setSpec>soziales</setSpec>
+				<setSpec>wirtschaft</setSpec>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_10</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Entwicklung von Erbschaften und ihr Beitrag zu Ungleichheit</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Entwicklung von Erbschaften und ihr Beitrag zu Ungleichheit</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-726533</identifier>
+				<datestamp>2016-12-16T11:08:08Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_11</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="b">Lässt sich soziale Unternehmensverantwortung (Corporate Social Responsibility bzw. CSR) messen? Ja. Und zwar mit den richtigen Indikatoren.</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="246" ind1="3" ind2=" ">
+						<marc:subfield code="a">Unternehmensverantwortung in Zahlen: Die Sozialbilanz</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Unternehmensverantwortung in Zahlen: Die Sozialbilanz</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-727422</identifier>
+				<datestamp>2016-12-16T11:08:11Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2015</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2015_12</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Renditen betrieblicher Weiterbildung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Renditen betrieblicher Weiterbildung</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="720" ind1=" " ind2=" ">
+						<marc:subfield code="a">Schnell</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-750386</identifier>
+				<datestamp>2016-12-16T11:08:39Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_1</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Die Inflation im Jahr 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Inflation im Jahr 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-756373</identifier>
+				<datestamp>2016-12-16T11:08:42Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_2</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Ausbildungsqualität in der Lehre</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Ausbildungsqualität in der Lehre</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-769657</identifier>
+				<datestamp>2016-12-16T11:08:47Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_4</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Das AK Wiedereinstiegsmonitoring 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">AK Wiedereinstiegsmonitoring 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">5 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-769712</identifier>
+				<datestamp>2016-12-16T11:08:45Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016-3</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Integration und politische Partizipation</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Integration und politische Partizipation</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">5 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-775284</identifier>
+				<datestamp>2016-12-16T11:08:50Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_5</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Profiteure der Steuerflucht</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Profiteure der Steuerflucht</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">4 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-824918</identifier>
+				<datestamp>2016-12-16T11:08:52Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_6</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Der Arbeitsmarkt im Jahr 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitsmarkt im Jahr 2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">6 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-842339</identifier>
+				<datestamp>2016-12-16T11:08:32Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_09</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Arbeitskräfteüberlassung in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">4 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-862679</identifier>
+				<datestamp>2016-12-16T11:08:35Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_10</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="b">Konsumerhebung (KE) 2014/2015</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="246" ind1="3" ind2=" ">
+						<marc:subfield code="a">Die Ausgaben der privaten Haushalte</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Ausgaben der privaten Haushalte</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">4 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-876750</identifier>
+				<datestamp>2016-12-16T11:08:37Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_11</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Gleichstellung im Fokus</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Gleichstellung im Fokus</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">5 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>urn:nbn:at:at-akw:g-925312</identifier>
+				<datestamp>2016-12-22T13:35:47Z</datestamp>
+				<setSpec>zeitschriften.sozialundwirtschaftsstatistikaktuell.2016</setSpec>
+			</header>
+			<metadata>
+				<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+					<marc:leader>12345nm  22     uu 4500</marc:leader>
+					<marc:controlfield tag="001">AC11620888_2016_12</marc:controlfield>
+					<marc:controlfield tag="003">gbv-ppn</marc:controlfield>
+					<marc:controlfield tag="001">akwien</marc:controlfield>
+					<marc:controlfield tag="003">ak_identifier</marc:controlfield>
+					<marc:controlfield tag="008">s           |||||||||||||||||ger||</marc:controlfield>
+					<marc:datafield xmlns="" tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Armut in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="130" ind1="0" ind2=" ">
+						<marc:subfield code="a">Armut in Österreich</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="773" ind1="0" ind2=" " />
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="c">2016</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">5 Seiten</marc:subfield>
+					</marc:datafield>
+					<marc:datafield xmlns="" tag="260" ind1=" " ind2=" ">
+						<marc:subfield code="a">Wien</marc:subfield>
+						<marc:subfield code="b">Kammer für Arbeiter und Angestellte für Wien</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

@@ -1,6 +1,18 @@
 <?php
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
+
+$allPublicationInfos = array();
+
+$set = (isset($_POST['set'])) ? $_POST['set'] : null;
+$metadataFormat = (isset($_POST['metadataFormat'])) ? $_POST['metadataFormat'] : null;
+$fromDate = (isset($_POST['fromDate'])) ? $_POST['fromDate'] : null;
+$toDate = (isset($_POST['toDate'])) ? $_POST['toDate'] : null;
+
+require_once 'Oai.php';
+require_once 'Piwik.php';
+$oai = new Oai($set, $metadataFormat);
+$piwik = new Piwik();
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
 <html>
@@ -50,7 +62,7 @@ ini_set("display_errors", 1);
 		<option value="serien.materialienzuwirtschaftundgesellschaft*">Materialien zu Wirtschaft und Gesellschaft</option>
 	</select>
 	<br />
-	von <input type="text" name="fromDate" />&nbsp;bis&nbsp;<input type="text" name="toDate" /> (Format: JJJJ-MM-TT)
+	von <input type="text" name="fromDate" value="<?php echo $fromDate; ?>" />&nbsp;bis&nbsp;<input type="text" name="toDate" value="<?php echo $toDate; ?>"/> (Format: JJJJ-MM-TT)
 	<br />
 	<input type="radio" name="metadataFormat" value="marcxml" checked>MarcXML (schneller)&nbsp;&nbsp;
 	<input type="radio" name="metadataFormat" value="mets">Mets (langsamer)
@@ -58,19 +70,6 @@ ini_set("display_errors", 1);
 	<button type="submit" name="submit" id="submit">Auswählen</button>
 </form>
 <?php
-
-
-$allPublicationInfos = array();
-
-$set = (isset($_POST['set'])) ? $_POST['set'] : null;
-$metadataFormat = (isset($_POST['metadataFormat'])) ? $_POST['metadataFormat'] : null;
-$fromDate = (isset($_POST['fromDate'])) ? $_POST['fromDate'] : null;
-$toDate = (isset($_POST['toDate'])) ? $_POST['toDate'] : null;
-
-require_once 'Oai.php';
-require_once 'Piwik.php';
-$oai = new Oai($set, $metadataFormat);
-$piwik = new Piwik();
 
 echo '<br><br>';
 echo 'Set: '.$set.'<br>';

@@ -19,13 +19,14 @@ class Oai {
 	 */
 	public function getPublicationInfosFromMarcXml() {
 		$allPublicationInfos = array();
-		$oaiAsSimpleXml = $this->getOaiAsSimpleXml(); // Include for production
-		//$oaiAsSimpleXml = simplexml_load_file('xmlExamples/oai_marc_wug.xml'); // FOR TESTING: Remove for production
+		$oaiAsSimpleXml = $this->getOaiAsSimpleXml(); // Uncomment for production use
+		//$oaiAsSimpleXml = simplexml_load_file('xmlExamples/oai_marc_swsa.xml'); // FOR TESTING: Remove for production
 		
 		// These values are also exported as field 100 in MarcXML OAI, but they are not real permanent IDs
 		$falseMarcPids = array("akburgenland", "akkaernten", "akniederoesterreich", "akoberoesterreich", "aksalzburg", "aksteiermark", "aktirol", "akvorarlberg", "akwien");
 
 		// Labels:
+		$allPublicationInfos['labels']['urn'] = 'URN';
 		$allPublicationInfos['labels']['permanentId'] = 'Permanent ID';
 		$allPublicationInfos['labels']['title'] = 'Titel';
 		$allPublicationInfos['labels']['year'] = 'Jahr/Datum';
@@ -35,11 +36,18 @@ class Oai {
 		foreach ($oaiAsSimpleXml->ListRecords->record as $key => $record) {
 			$counter = $counter + 1;
 			
+			// Get urn from header
+			if (isset($record->header->identifier)) {
+				$urn = $this->getObjectValueAsString($record->header->identifier);
+				$allPublicationInfos['values'][$counter]['urn'] = $urn;
+			}
+			
 			foreach ($record->metadata as $metadata) {
 				$metadataNs = $metadata->getNameSpaces(true);
 				$marc = $metadata->children($metadataNs['marc']);
 				$marc->registerXPathNamespace('marc', $metadataNs['marc']);
-					
+
+				
 				// Get permanent id
 				if (isset($marc->record->controlfield)) {
 					foreach($marc->record->controlfield as $key => $controlfield) {
@@ -114,9 +122,10 @@ class Oai {
 	 */
 	public function getPublicationInfosFromMets() {
 		$allPublicationInfos = array();
-		$oaiAsSimpleXml = $this->getOaiAsSimpleXml(); // Include for production
+		$oaiAsSimpleXml = $this->getOaiAsSimpleXml(); // Uncomment for production
 		//$oaiAsSimpleXml = simplexml_load_file('xmlExamples/oai_mets_wug_small.xml'); // FOR TESTING: Remove for production
 	
+		$allPublicationInfos['labels']['urn'] = 'URN';
 		$allPublicationInfos['labels']['permanentId'] = 'Permanent ID';
 		$allPublicationInfos['labels']['title'] = 'Titel';
 		$allPublicationInfos['labels']['year'] = 'Jahr';
@@ -126,6 +135,12 @@ class Oai {
 		$publicationInfos = array();
 		
 		foreach ($oaiAsSimpleXml->ListRecords->record as $key => $record) {
+			
+			// Get urn from header
+			if (isset($record->header->identifier)) {
+				$urn = $this->getObjectValueAsString($record->header->identifier);
+				$allPublicationInfos['values'][$counter]['urn'] = $urn;
+			}
 	
 			//$recordInfo = array();
 			foreach ($record->metadata as $metadata) {
